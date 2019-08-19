@@ -19,8 +19,8 @@
 @media screen and (max-width: 1030px) {
 
     .backgroundImage {
-        width: 100%;
-        height: auto;
+        width: auto;
+        height: 100%;
 
         position: fixed;
         top: 0px;
@@ -36,8 +36,8 @@
 @media screen and (max-width: 980px) {
 
     .backgroundImage {
-        width: 100%;
-        height: auto;
+        width: auto;
+        height: 100%;
 
         position: fixed;
         top: 0px;
@@ -57,6 +57,7 @@
 
         position: fixed;
         top: 0px;
+        left: -190px;
     }
 
 }
