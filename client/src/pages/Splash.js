@@ -29,10 +29,10 @@ class Splash extends React.Component {
 
             <SplashBanner />
 
-            <div class="splashButtonsContainer">
+            <div className="splashButtonsContainer">
                 {/* <a href="MainMenu"><button class="button1">Sign up</button></a>
                 <a href="MainMenu"><button class="button1">Login</button></a> */}
-                <a href="DataEntry"><button class="button1">Get started</button></a>
+                <a href="DataEntry"><button className="button1">Get started</button></a>
 
                 {/* <a href="http://localhost:3001/auth/google">
                   <button class="googleButton">
