@@ -60,7 +60,8 @@
 
 /* Style the hamburger menu */
 .topnav a.icon {
-    background: #FFAB0A;
+    /* background: #FFAB0A; */
+    background-color: rgb(30, 70, 230);
     
     position: fixed;
     right: 0px;
@@ -72,7 +73,8 @@
     /* background-color: #2AC940; */
     /* background-color: #4569FF; */
     /* background-color: rgb(28, 66, 218); */
-    background-color: rgb(30, 70, 228);
+    /* background-color: rgb(30, 70, 230); */
+    background: #FFAB0A;
     color: white;
     text-decoration: none;
 }
